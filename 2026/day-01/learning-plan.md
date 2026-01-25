@@ -1,4 +1,5 @@
 # Introduction of Devops and Cloud #
+
 # What is your understanding of DevOps and Cloud Engineering?
 => Devops is a culture , mindset to collaborate developer and operations team and reduce maximum time to market.
 
