@@ -1,13 +1,22 @@
-# Introduction of Devops and Cloud #
+# Introduction of Devops and Cloud
 
-# What is your understanding of DevOps and Cloud Engineering?
-=> Devops is a culture , mindset to collaborate developer and operations team and reduce maximum time to market.
+## Task
+Today’s I set my goal **for DevOps journey**.
 
-# Why you are starting learning DevOps & Cloud?
-=> Because of to get a better job in devop & cloud computing.
+You will create a **90-day personal DevOps learning plan** that clearly defines:
 
-# Where do you want to reach?
-=> I want to do mastery in devops industries.Also,I want to get good job as in $100,000.
+- **What is your understanding of DevOps and Cloud Engineering?**
+
+  Devops is a culture , mindset to collaborate developer and operations team to reduce maximum time to serve market.
+ 
+- **Why you are starting learning DevOps & Cloud?**
+
+  I have been working as a web developer for the past 7 years. Two years ago, I moved to Canada and have been trying to find a job as a PHP developer. However, I’ve noticed that there are fewer opportunities here compared to India, as many companies outsource development work to India. Therefore, I want to upgrade my skills in DevOps or Cybersecurity.**
+
+- **Where do you want to reach?**
+
+  I want to get a good job with handsome package. Also, lerarne how to make a video and start youtube chanel to help community as much as possible.
+     
 
 # How you will stay consistent every single day?
 => I have a plan to study every day for next 90 Days.
